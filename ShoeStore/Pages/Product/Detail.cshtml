@@ -1,0 +1,168 @@
+﻿@page "{id:int?}"
+@model WebRazor.Pages.Product.DetailModel
+@{
+    ViewData["PageTitle"] = "Product Details";
+    if (Model.Cart == null || Model.Cart.Count == 0)
+    {
+        ViewData["cartSize"] = 0;
+    }
+    else
+    {
+        ViewData["cartSize"] = Model.Cart.Count;
+    }
+}
+<style>
+    #content-detail {
+        display: flex;
+        flex-direction: column;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+
+    #content-title {
+        margin: 20px 0;
+        font-size: 16px;
+    }
+
+    #product {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #product-name {
+        flex: 1;
+        margin-right: 20px;
+    }
+
+    #product-detail {
+        display: flex;
+    }
+
+    #product-detail-left {
+        margin-right: 20px;
+    }
+
+    #product-img {
+        margin-bottom: 10px;
+    }
+
+        #product-img img {
+            max-width: 100%;
+            height: auto;
+        }
+
+    #product-img-items {
+        display: flex;
+    }
+
+        #product-img-items div {
+            margin-right: 10px;
+        }
+
+    #product-detail-right {
+        flex: 1;
+    }
+
+    #product-detail-buttons {
+        margin-top: 20px;
+    }
+
+    #product-detail-button a {
+        text-decoration: none;
+    }
+
+    #product-detail-button input {
+        padding: 10px;
+        background-color: #fff;
+        color: red;
+        border: 1px solid gray;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+        #product-detail-button input:hover {
+            background-color: #f0f0f0;
+        }
+
+    #info-detail {
+        margin-top: 40px;
+    }
+
+    #info-detail-title {
+        margin-bottom: 20px;
+    }
+
+        #info-detail-title h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+</style>
+<div id="content-detail" style="margin-top: 100px">
+    <div id="content-title">
+        <a href="~/Index">Home</a> >
+        <a href="~/Index?id=@Model.Product.CategoryId">@Model.Product.Category.CategoryName</a> >
+        @Model.Product.ProductName
+    </div>
+    <div id="product">
+        <div id="product-name"> 
+            <div id="product-detail">   
+                <div class="product_image_area">
+                    <div class="container">
+                        <div class="row s_product_inner">
+                            <div class="col-lg-6">
+                                <div class="s_Product_carousel">
+                                    <div class="single-prd-item">
+                                        <img class="img-fluid" src="@Model.Product.ProductImage" alt="">
+                                    </div> 
+                                </div>
+                            </div>
+                            <div class="col-lg-5 offset-lg-1">
+                                <div class="s_product_text">
+                                    <h3>@Model.Product.ProductName</h3>
+                                    <h2>$@Model.Product.UnitPrice</h2>
+                                    @if (Model.Product.UnitsInStock > 0)
+                                    {
+                                    <ul class="list">
+                                        <li><a class="active" href="~/Index?id=@Model.Product.CategoryId"><span>Category</span> : @Model.Product.Category.CategoryName</a></li>
+                                        
+                                            <li><a href="#"><span>Availibility</span> : In Stock</a></li>
+                                            </ul>
+                                            <p>
+                                            Still retaining the classic design of the new version of the perfume line "Parfum", 
+                                            this new version of "Parfum" is put on a new coat, a 2-color ombre style cloak, 
+                                            the black body from top to silver gradually fades to silver/white, looking very 
+                                            New but no less than classic powder.
+                                            </p>
+                                            <div class="card_area d-flex align-items-center">
+                                                <a class="primary-btn" href="/Cart/Add/@Model.Product.ProductId">Add to Cart</a>
+                                                <a class="icon_btn" href="#"><i class="lnr lnr lnr-diamond"></i></a>
+                                                <a class="icon_btn" href="#"><i class="lnr lnr lnr-heart"></i></a>
+                                            </div>
+                                        }
+                                        else
+                                        {
+                                        <div style="color: red">Not in stock</div>
+                                        }
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="info-detail">
+        <div id="info-detail-title">
+            <h2>Information deltail</h2>
+            <div style="margin:10px auto;">
+            Prada's new masculine fragrance, built on the belief 
+            that with technology as an extension of humanity,
+            we can push our limits, imagine beyond possibility and open our horizons. 
+            new. The fragrance features a bright cocktail of citrus combined with a duo
+            of lavender and sage to create a clean and fresh aura.
+            </div>
+        </div>
+    </div>

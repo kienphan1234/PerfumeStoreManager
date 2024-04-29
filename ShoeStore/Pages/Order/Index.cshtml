@@ -1,0 +1,147 @@
+﻿@page
+@model WebRazor.Pages.Order.IndexModel
+@{
+}
+<div id="content-left"style="margin-top:120px" >
+    <h3 style="font-weight: normal;">Welcome</h3>
+    <h3>Account Management</h3>
+    <ul>
+        <a href="~/Account/Profile">
+        <li>Personal information</li></a>
+    </ul>
+    <h2>My order</h2>
+    <ul>
+        <a href="~/Order">
+        <li>All orders</li></a>
+        <a href="/">
+        <li>Canceled order</li></a>
+    </ul>
+</div>
+<div id="content-right">
+    <div class="path">LIST ORDERS</b></div>
+    <div class="content-main">
+        <div id="profile-content-order">
+            @foreach(var order in Model.Auth.Customer.Orders){
+                <div>
+                    <div class="profile-order-title">
+                        <div class="profile-order-title-left">
+                            <div>Order creation date: @order.OrderDate</div>
+                            <div>Order: <a href="#">#@order.OrderId</a></div>
+                        </div>
+                       
+                    </div>
+
+                    @foreach(var item in order.OrderDetails){
+                        <div class="profile-order-content">
+                            <div class="profile-order-content-col1">
+                                <a href="~/Product/Detail/@item.ProductId"><img src="@item.Product.ProductImage" width="100%" /></a>
+                            </div>
+                            <div class="profile-order-content-col2">@item.Product.ProductName</div>
+                            <div class="profile-order-content-col3">Quantity: @item.Quantity</div>
+                            <div class="profile-order-content-col4">@item.UnitPrice $</div>
+                        </div>
+                    }
+
+                </div>
+            }
+
+        </div>
+    </div>
+</div>
+<style>
+    ul a {
+        text-decoration: none;
+        color: #333;
+    }
+    h3 {
+        text-align: center;
+    }
+
+        /* If you want to specifically target the second h3 (Account Management) */
+        h3:nth-child(2) {
+            text-align: center;
+            /* Additional styling if needed */
+        }
+
+    #profile-content-order {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+
+    .profile-order-content {
+        width: calc(25% - 10px); /* 25% width for each order with 10px margin */
+        margin-right: 10px;
+        margin-bottom: 10px; /* Margin bottom to create space between rows */
+    }
+
+    #profile-content-order {
+        display: flex;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+    }
+
+    .profile-order-content {
+        width: 300px;
+        margin-right: 10px;
+    }
+
+    #profile-content-order {
+        display: flex;
+        flex-wrap: nowrap; /* Prevent wrapping to the next line */
+        overflow-x: auto; /* Enable horizontal scrolling if content exceeds the container width */
+    }
+
+    .profile-order-content {
+        width: 300px; /* Adjust the width based on your design */
+        margin-right: 10px; /* Add some space between each order */
+    }
+
+    #profile-content-order {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .profile-order-content {
+        width: calc(25% - 20px); /* Adjusted width with some margin */
+        margin: 10px;
+        padding: 15px;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .profile-order-title {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .profile-order-title-left {
+        flex: 1;
+    }
+
+    .profile-order-title-right {
+        text-align: right;
+    }
+
+    .profile-order-content img {
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 10px;
+    }
+
+    .profile-order-content-col2 {
+        font-weight: bold;
+    }
+
+    .profile-order-content-col3,
+    .profile-order-content-col4 {
+        margin-top: 5px;
+    }
+
+</style>
+   
+
+

@@ -1,0 +1,3873 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Group08_Project_PerfumeStoreManager.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Group08_Project_PerfumeStoreManager.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\Account\\css\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\availability-calendar.css",
+      "PackagePath": "staticwebassets\\Account\\css\\availability-calendar.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Account\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\bootstrap.map",
+      "PackagePath": "staticwebassets\\Account\\css\\bootstrap.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Account\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\Account\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\Account\\css\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\jquerysctipttop.css",
+      "PackagePath": "staticwebassets\\Account\\css\\jquerysctipttop.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\Account\\css\\linearicons.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Account\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\main.css",
+      "PackagePath": "staticwebassets\\Account\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\Account\\css\\main.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\main.map",
+      "PackagePath": "staticwebassets\\Account\\css\\main.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Account\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\Account\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Account\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\site.css",
+      "PackagePath": "staticwebassets\\Account\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\style.css",
+      "PackagePath": "staticwebassets\\Account\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\style1.css",
+      "PackagePath": "staticwebassets\\Account\\css\\style1.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\Account\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\favicon.ico",
+      "PackagePath": "staticwebassets\\Account\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Account\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\Account\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\Account\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\Account\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\Account\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\Account\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Account\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Account\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Account\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Account\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Account\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\Account\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\Account\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\Account\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\Account\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\.DS_Store",
+      "PackagePath": "staticwebassets\\Account\\img\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\banner\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\banner\\banner-bg.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\banner\\banner-img.png",
+      "PackagePath": "staticwebassets\\Account\\img\\banner\\banner-img.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\banner\\common-banner.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\banner\\common-banner.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\banner\\next.png",
+      "PackagePath": "staticwebassets\\Account\\img\\banner\\next.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\banner\\prev.png",
+      "PackagePath": "staticwebassets\\Account\\img\\banner\\prev.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\author.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\causes\\causes-1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\causes\\causes-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\causes\\causes-2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\causes\\causes-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\causes\\causes-3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\causes\\causes-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\latest-post\\l-post-1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\latest-post\\l-post-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\latest-post\\l-post-2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\latest-post\\l-post-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\latest-post\\l-post-3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\latest-post\\l-post-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\latest-post\\l-post-4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\latest-post\\l-post-4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\brand\\1.png",
+      "PackagePath": "staticwebassets\\Account\\img\\brand\\1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\brand\\2.png",
+      "PackagePath": "staticwebassets\\Account\\img\\brand\\2.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\brand\\3.png",
+      "PackagePath": "staticwebassets\\Account\\img\\brand\\3.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\brand\\4.png",
+      "PackagePath": "staticwebassets\\Account\\img\\brand\\4.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\brand\\5.png",
+      "PackagePath": "staticwebassets\\Account\\img\\brand\\5.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\cart.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\cart.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\category\\c1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\category\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\category\\c2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\category\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\category\\c3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\category\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\category\\c4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\category\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\category\\c5.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\category\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\category\\s-p1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\category\\s-p1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\Account\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\exclusive.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\exclusive.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\fav.png",
+      "PackagePath": "staticwebassets\\Account\\img\\fav.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\features\\f-icon1.png",
+      "PackagePath": "staticwebassets\\Account\\img\\features\\f-icon1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\features\\f-icon2.png",
+      "PackagePath": "staticwebassets\\Account\\img\\features\\f-icon2.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\features\\f-icon3.png",
+      "PackagePath": "staticwebassets\\Account\\img\\features\\f-icon3.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\features\\f-icon4.png",
+      "PackagePath": "staticwebassets\\Account\\img\\features\\f-icon4.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\i1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\i1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\i2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\i2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\i3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\i3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\i4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\i4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\i5.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\i5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\i6.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\i6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\i7.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\i7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\i8.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\i8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\l1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\l1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\l2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\l2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\l3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\l3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\l4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\l4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\l5.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\l5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\l6.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\l6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\l7.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\l7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\l8.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\l8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\login.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\login.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\logo.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\logo1.png",
+      "PackagePath": "staticwebassets\\Account\\img\\logo1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\men-bg.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\men-bg.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\ob1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\ob1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\ob2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\ob2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\ob3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\ob3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\.DS_Store",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\b1.png",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\b1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\b2.png",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\b2.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\b3.png",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\b3.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\b4.png",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\b4.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\c1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\c2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\c3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\c4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\cd-bg.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\cd-bg.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\cd.png",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\cd.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\ci1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\ci1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\ci2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\ci2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\ci3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\ci3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\f1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\f1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\f2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\f2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\f3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\f3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\f4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\f4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\m1.png",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\m1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\mp1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\mp1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\mp10.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\mp10.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\mp11.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\mp11.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\mp12.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\mp12.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\mp2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\mp2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\mp3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\mp3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\mp4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\mp4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\mp5.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\mp5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\mp6.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\mp6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\mp7.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\mp7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\mp8.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\mp8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\mp9.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\mp9.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\ob1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\ob1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\ob2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\ob2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\ob3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\ob3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\p1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\p1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\p2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\p2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\p3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\p3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\p4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\p4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\p5.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\p5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\p6.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\p6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\p7.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\p7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\p8.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\p8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\pl1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\pl1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\pl2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\pl2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\pl3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\pl3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\pl4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\pl4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\pl5.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\pl5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\pl6.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\pl6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\pl7.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\pl7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\pl8.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\pl8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\pm.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\pm.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\q1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\q1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\u1.png",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\u1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\u2.png",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\u2.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\organic-food\\u3.png",
+      "PackagePath": "staticwebassets\\Account\\img\\organic-food\\u3.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\product\\card.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\product\\card.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\product\\e-p1.png",
+      "PackagePath": "staticwebassets\\Account\\img\\product\\e-p1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\product\\hoa.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\product\\hoa.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\product\\next.png",
+      "PackagePath": "staticwebassets\\Account\\img\\product\\next.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\product\\p1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\product\\p1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\product\\p2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\product\\p2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\product\\p3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\product\\p3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\product\\p4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\product\\p4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\product\\p5.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\product\\p5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\product\\p6.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\product\\p6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\product\\p7.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\product\\p7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\product\\p8.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\product\\p8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\product\\prev.png",
+      "PackagePath": "staticwebassets\\Account\\img\\product\\prev.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\product\\review-1.png",
+      "PackagePath": "staticwebassets\\Account\\img\\product\\review-1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\product\\review-2.png",
+      "PackagePath": "staticwebassets\\Account\\img\\product\\review-2.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\product\\review-3.png",
+      "PackagePath": "staticwebassets\\Account\\img\\product\\review-3.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\q1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\q1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\r1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\r1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\r10.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\r10.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\r11.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\r11.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\r12.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\r12.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\r2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\r2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\r3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\r3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\r4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\r4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\r5.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\r5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\r6.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\r6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\r7.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\r7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\r8.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\r8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\r9.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\r9.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\rose.jpeg",
+      "PackagePath": "staticwebassets\\Account\\img\\rose.jpeg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\sd\\c1.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\sd\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\sd\\c2.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\sd\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\sd\\c3.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\sd\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\sd\\c4.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\sd\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\img\\sd\\c5.jpg",
+      "PackagePath": "staticwebassets\\Account\\img\\sd\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\Account\\js\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\Account\\js\\countdown.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\email-validation.js",
+      "PackagePath": "staticwebassets\\Account\\js\\email-validation.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\Account\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\ion.rangeSlider.js",
+      "PackagePath": "staticwebassets\\Account\\js\\ion.rangeSlider.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\Account\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Account\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\Account\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\Account\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\main.js",
+      "PackagePath": "staticwebassets\\Account\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\Account\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Account\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\Account\\js\\parallax.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\site.js",
+      "PackagePath": "staticwebassets\\Account\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Account\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\Account\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\js\\vendor\\popper.js",
+      "PackagePath": "staticwebassets\\Account\\js\\vendor\\popper.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Account\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\Account\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\Account\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Account\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\Account\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\Account\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\Account\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Account\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Account\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\Account\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Account\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Account\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\Account\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\Account\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\Account\\scss\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\Account\\scss\\main.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\scss\\theme\\_banner.scss",
+      "PackagePath": "staticwebassets\\Account\\scss\\theme\\_banner.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\scss\\theme\\_blog.scss",
+      "PackagePath": "staticwebassets\\Account\\scss\\theme\\_blog.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\scss\\theme\\_common.scss",
+      "PackagePath": "staticwebassets\\Account\\scss\\theme\\_common.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\scss\\theme\\_contact.scss",
+      "PackagePath": "staticwebassets\\Account\\scss\\theme\\_contact.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\scss\\theme\\_elements.scss",
+      "PackagePath": "staticwebassets\\Account\\scss\\theme\\_elements.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\scss\\theme\\_footer.scss",
+      "PackagePath": "staticwebassets\\Account\\scss\\theme\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\scss\\theme\\_header.scss",
+      "PackagePath": "staticwebassets\\Account\\scss\\theme\\_header.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\scss\\theme\\_home.scss",
+      "PackagePath": "staticwebassets\\Account\\scss\\theme\\_home.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\scss\\theme\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Account\\scss\\theme\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\scss\\theme\\_predefine.scss",
+      "PackagePath": "staticwebassets\\Account\\scss\\theme\\_predefine.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\scss\\theme\\_product.scss",
+      "PackagePath": "staticwebassets\\Account\\scss\\theme\\_product.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\scss\\theme\\_reset.scss",
+      "PackagePath": "staticwebassets\\Account\\scss\\theme\\_reset.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Account\\scss\\theme\\_variables.scss",
+      "PackagePath": "staticwebassets\\Account\\scss\\theme\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Admin\\img\\nen.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\nen.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\availability-calendar.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\availability-calendar.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\bootstrap.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\bootstrap.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\jquerysctipttop.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\jquerysctipttop.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\linearicons.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\main.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\main.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\main.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\main.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\site.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\style.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\style1.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\style1.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\favicon.ico",
+      "PackagePath": "staticwebassets\\Product\\Detail\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Product\\Detail\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\Product\\Detail\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\Product\\Detail\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\Product\\Detail\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\Product\\Detail\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Product\\Detail\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Product\\Detail\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Product\\Detail\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Product\\Detail\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\Product\\Detail\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\Product\\Detail\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\Product\\Detail\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\.DS_Store",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\banner\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\banner\\banner-bg.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\banner\\banner-img.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\banner\\banner-img.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\banner\\common-banner.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\banner\\common-banner.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\banner\\next.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\banner\\next.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\banner\\prev.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\banner\\prev.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\author.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\causes\\causes-1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\causes\\causes-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\causes\\causes-2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\causes\\causes-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\causes\\causes-3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\causes\\causes-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\latest-post\\l-post-1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\latest-post\\l-post-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\latest-post\\l-post-2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\latest-post\\l-post-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\latest-post\\l-post-3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\latest-post\\l-post-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\latest-post\\l-post-4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\latest-post\\l-post-4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\brand\\1.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\brand\\1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\brand\\2.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\brand\\2.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\brand\\3.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\brand\\3.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\brand\\4.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\brand\\4.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\brand\\5.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\brand\\5.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\cart.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\cart.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\category\\c1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\category\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\category\\c2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\category\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\category\\c3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\category\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\category\\c4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\category\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\category\\c5.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\category\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\category\\s-p1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\category\\s-p1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\exclusive.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\exclusive.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\fav.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\fav.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\features\\f-icon1.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\features\\f-icon1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\features\\f-icon2.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\features\\f-icon2.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\features\\f-icon3.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\features\\f-icon3.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\features\\f-icon4.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\features\\f-icon4.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\i1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\i1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\i2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\i2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\i3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\i3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\i4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\i4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\i5.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\i5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\i6.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\i6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\i7.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\i7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\i8.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\i8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\l1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\l1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\l2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\l2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\l3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\l3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\l4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\l4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\l5.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\l5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\l6.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\l6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\l7.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\l7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\l8.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\l8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\login.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\login.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\logo.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\logo1.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\logo1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\men-bg.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\men-bg.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\ob1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\ob1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\ob2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\ob2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\ob3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\ob3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\.DS_Store",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\b1.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\b1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\b2.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\b2.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\b3.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\b3.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\b4.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\b4.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\c1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\c2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\c3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\c4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\cd-bg.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\cd-bg.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\cd.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\cd.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\ci1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\ci1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\ci2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\ci2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\ci3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\ci3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\f1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\f1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\f2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\f2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\f3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\f3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\f4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\f4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\m1.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\m1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\mp1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\mp1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\mp10.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\mp10.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\mp11.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\mp11.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\mp12.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\mp12.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\mp2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\mp2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\mp3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\mp3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\mp4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\mp4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\mp5.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\mp5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\mp6.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\mp6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\mp7.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\mp7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\mp8.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\mp8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\mp9.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\mp9.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\ob1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\ob1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\ob2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\ob2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\ob3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\ob3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\p1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\p1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\p2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\p2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\p3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\p3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\p4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\p4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\p5.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\p5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\p6.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\p6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\p7.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\p7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\p8.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\p8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\pl1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\pl1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\pl2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\pl2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\pl3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\pl3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\pl4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\pl4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\pl5.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\pl5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\pl6.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\pl6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\pl7.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\pl7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\pl8.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\pl8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\pm.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\pm.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\q1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\q1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\u1.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\u1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\u2.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\u2.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\organic-food\\u3.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\organic-food\\u3.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\product\\card.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\product\\card.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\product\\e-p1.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\product\\e-p1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\product\\hoa.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\product\\hoa.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\product\\next.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\product\\next.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\product\\p1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\product\\p1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\product\\p2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\product\\p2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\product\\p3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\product\\p3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\product\\p4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\product\\p4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\product\\p5.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\product\\p5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\product\\p6.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\product\\p6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\product\\p7.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\product\\p7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\product\\p8.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\product\\p8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\product\\prev.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\product\\prev.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\product\\review-1.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\product\\review-1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\product\\review-2.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\product\\review-2.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\product\\review-3.png",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\product\\review-3.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\q1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\q1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\r1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\r1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\r10.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\r10.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\r11.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\r11.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\r12.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\r12.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\r2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\r2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\r3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\r3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\r4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\r4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\r5.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\r5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\r6.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\r6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\r7.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\r7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\r8.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\r8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\r9.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\r9.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\rose.jpeg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\rose.jpeg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\sd\\c1.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\sd\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\sd\\c2.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\sd\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\sd\\c3.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\sd\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\sd\\c4.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\sd\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\img\\sd\\c5.jpg",
+      "PackagePath": "staticwebassets\\Product\\Detail\\img\\sd\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\countdown.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\email-validation.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\email-validation.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\ion.rangeSlider.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\ion.rangeSlider.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\main.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\parallax.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\site.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\js\\vendor\\popper.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\js\\vendor\\popper.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Product\\Detail\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\Product\\Detail\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\Product\\Detail\\scss\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\Product\\Detail\\scss\\main.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\scss\\theme\\_banner.scss",
+      "PackagePath": "staticwebassets\\Product\\Detail\\scss\\theme\\_banner.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\scss\\theme\\_blog.scss",
+      "PackagePath": "staticwebassets\\Product\\Detail\\scss\\theme\\_blog.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\scss\\theme\\_common.scss",
+      "PackagePath": "staticwebassets\\Product\\Detail\\scss\\theme\\_common.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\scss\\theme\\_contact.scss",
+      "PackagePath": "staticwebassets\\Product\\Detail\\scss\\theme\\_contact.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\scss\\theme\\_elements.scss",
+      "PackagePath": "staticwebassets\\Product\\Detail\\scss\\theme\\_elements.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\scss\\theme\\_footer.scss",
+      "PackagePath": "staticwebassets\\Product\\Detail\\scss\\theme\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\scss\\theme\\_header.scss",
+      "PackagePath": "staticwebassets\\Product\\Detail\\scss\\theme\\_header.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\scss\\theme\\_home.scss",
+      "PackagePath": "staticwebassets\\Product\\Detail\\scss\\theme\\_home.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\scss\\theme\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Product\\Detail\\scss\\theme\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\scss\\theme\\_predefine.scss",
+      "PackagePath": "staticwebassets\\Product\\Detail\\scss\\theme\\_predefine.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\scss\\theme\\_product.scss",
+      "PackagePath": "staticwebassets\\Product\\Detail\\scss\\theme\\_product.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\scss\\theme\\_reset.scss",
+      "PackagePath": "staticwebassets\\Product\\Detail\\scss\\theme\\_reset.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\Product\\Detail\\scss\\theme\\_variables.scss",
+      "PackagePath": "staticwebassets\\Product\\Detail\\scss\\theme\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\availability-calendar.css",
+      "PackagePath": "staticwebassets\\css\\availability-calendar.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\bootstrap.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\css\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\jquerysctipttop.css",
+      "PackagePath": "staticwebassets\\css\\jquerysctipttop.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\css\\linearicons.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\css\\main.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\main.map",
+      "PackagePath": "staticwebassets\\css\\main.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\style1.css",
+      "PackagePath": "staticwebassets\\css\\style1.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\banner\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-bg.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\banner\\banner-img.png",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-img.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\banner\\common-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\common-banner.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\banner\\next.png",
+      "PackagePath": "staticwebassets\\img\\banner\\next.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\banner\\prev.png",
+      "PackagePath": "staticwebassets\\img\\banner\\prev.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\img\\blog\\author.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\causes\\causes-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\causes\\causes-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\causes\\causes-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\causes\\causes-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\causes\\causes-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\causes\\causes-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\latest-post\\l-post-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\latest-post\\l-post-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\latest-post\\l-post-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\latest-post\\l-post-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\latest-post\\l-post-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\latest-post\\l-post-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\latest-post\\l-post-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\latest-post\\l-post-4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\brand\\1.png",
+      "PackagePath": "staticwebassets\\img\\brand\\1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\brand\\2.png",
+      "PackagePath": "staticwebassets\\img\\brand\\2.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\brand\\3.png",
+      "PackagePath": "staticwebassets\\img\\brand\\3.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\brand\\4.png",
+      "PackagePath": "staticwebassets\\img\\brand\\4.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\brand\\5.png",
+      "PackagePath": "staticwebassets\\img\\brand\\5.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\cart.jpg",
+      "PackagePath": "staticwebassets\\img\\cart.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\category\\c1.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\category\\c2.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\category\\c3.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\category\\c4.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\category\\c5.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\category\\s-p1.jpg",
+      "PackagePath": "staticwebassets\\img\\category\\s-p1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\exclusive.jpg",
+      "PackagePath": "staticwebassets\\img\\exclusive.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\fav.png",
+      "PackagePath": "staticwebassets\\img\\fav.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\features\\f-icon1.png",
+      "PackagePath": "staticwebassets\\img\\features\\f-icon1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\features\\f-icon2.png",
+      "PackagePath": "staticwebassets\\img\\features\\f-icon2.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\features\\f-icon3.png",
+      "PackagePath": "staticwebassets\\img\\features\\f-icon3.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\features\\f-icon4.png",
+      "PackagePath": "staticwebassets\\img\\features\\f-icon4.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\i1.jpg",
+      "PackagePath": "staticwebassets\\img\\i1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\i2.jpg",
+      "PackagePath": "staticwebassets\\img\\i2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\i3.jpg",
+      "PackagePath": "staticwebassets\\img\\i3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\i4.jpg",
+      "PackagePath": "staticwebassets\\img\\i4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\i5.jpg",
+      "PackagePath": "staticwebassets\\img\\i5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\i6.jpg",
+      "PackagePath": "staticwebassets\\img\\i6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\i7.jpg",
+      "PackagePath": "staticwebassets\\img\\i7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\i8.jpg",
+      "PackagePath": "staticwebassets\\img\\i8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\l1.jpg",
+      "PackagePath": "staticwebassets\\img\\l1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\l2.jpg",
+      "PackagePath": "staticwebassets\\img\\l2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\l3.jpg",
+      "PackagePath": "staticwebassets\\img\\l3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\l4.jpg",
+      "PackagePath": "staticwebassets\\img\\l4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\l5.jpg",
+      "PackagePath": "staticwebassets\\img\\l5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\l6.jpg",
+      "PackagePath": "staticwebassets\\img\\l6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\l7.jpg",
+      "PackagePath": "staticwebassets\\img\\l7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\l8.jpg",
+      "PackagePath": "staticwebassets\\img\\l8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\login.jpg",
+      "PackagePath": "staticwebassets\\img\\login.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\logo1.png",
+      "PackagePath": "staticwebassets\\img\\logo1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\men-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\men-bg.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\ob1.jpg",
+      "PackagePath": "staticwebassets\\img\\ob1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\ob2.jpg",
+      "PackagePath": "staticwebassets\\img\\ob2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\ob3.jpg",
+      "PackagePath": "staticwebassets\\img\\ob3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\.DS_Store",
+      "PackagePath": "staticwebassets\\img\\organic-food\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\b1.png",
+      "PackagePath": "staticwebassets\\img\\organic-food\\b1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\b2.png",
+      "PackagePath": "staticwebassets\\img\\organic-food\\b2.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\b3.png",
+      "PackagePath": "staticwebassets\\img\\organic-food\\b3.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\b4.png",
+      "PackagePath": "staticwebassets\\img\\organic-food\\b4.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\c1.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\c2.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\c3.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\c4.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\cd-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\cd-bg.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\cd.png",
+      "PackagePath": "staticwebassets\\img\\organic-food\\cd.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\ci1.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\ci1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\ci2.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\ci2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\ci3.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\ci3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\f1.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\f1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\f2.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\f2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\f3.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\f3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\f4.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\f4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\m1.png",
+      "PackagePath": "staticwebassets\\img\\organic-food\\m1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\mp1.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\mp1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\mp10.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\mp10.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\mp11.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\mp11.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\mp12.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\mp12.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\mp2.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\mp2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\mp3.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\mp3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\mp4.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\mp4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\mp5.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\mp5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\mp6.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\mp6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\mp7.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\mp7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\mp8.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\mp8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\mp9.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\mp9.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\ob1.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\ob1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\ob2.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\ob2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\ob3.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\ob3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\p1.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\p1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\p2.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\p2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\p3.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\p3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\p4.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\p4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\p5.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\p5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\p6.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\p6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\p7.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\p7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\p8.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\p8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\pl1.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\pl1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\pl2.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\pl2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\pl3.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\pl3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\pl4.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\pl4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\pl5.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\pl5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\pl6.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\pl6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\pl7.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\pl7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\pl8.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\pl8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\pm.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\pm.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\q1.jpg",
+      "PackagePath": "staticwebassets\\img\\organic-food\\q1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\u1.png",
+      "PackagePath": "staticwebassets\\img\\organic-food\\u1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\u2.png",
+      "PackagePath": "staticwebassets\\img\\organic-food\\u2.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\organic-food\\u3.png",
+      "PackagePath": "staticwebassets\\img\\organic-food\\u3.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\product\\card.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\card.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\product\\e-p1.png",
+      "PackagePath": "staticwebassets\\img\\product\\e-p1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\product\\hoa.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\hoa.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\product\\next.png",
+      "PackagePath": "staticwebassets\\img\\product\\next.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\product\\p1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\p1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\product\\p2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\p2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\product\\p3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\p3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\product\\p4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\p4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\product\\p5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\p5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\product\\p6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\p6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\product\\p7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\p7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\product\\p8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\p8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\product\\prev.png",
+      "PackagePath": "staticwebassets\\img\\product\\prev.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\product\\review-1.png",
+      "PackagePath": "staticwebassets\\img\\product\\review-1.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\product\\review-2.png",
+      "PackagePath": "staticwebassets\\img\\product\\review-2.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\product\\review-3.png",
+      "PackagePath": "staticwebassets\\img\\product\\review-3.png"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\q1.jpg",
+      "PackagePath": "staticwebassets\\img\\q1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\r1.jpg",
+      "PackagePath": "staticwebassets\\img\\r1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\r10.jpg",
+      "PackagePath": "staticwebassets\\img\\r10.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\r11.jpg",
+      "PackagePath": "staticwebassets\\img\\r11.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\r12.jpg",
+      "PackagePath": "staticwebassets\\img\\r12.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\r2.jpg",
+      "PackagePath": "staticwebassets\\img\\r2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\r3.jpg",
+      "PackagePath": "staticwebassets\\img\\r3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\r4.jpg",
+      "PackagePath": "staticwebassets\\img\\r4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\r5.jpg",
+      "PackagePath": "staticwebassets\\img\\r5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\r6.jpg",
+      "PackagePath": "staticwebassets\\img\\r6.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\r7.jpg",
+      "PackagePath": "staticwebassets\\img\\r7.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\r8.jpg",
+      "PackagePath": "staticwebassets\\img\\r8.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\r9.jpg",
+      "PackagePath": "staticwebassets\\img\\r9.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\sd\\c1.jpg",
+      "PackagePath": "staticwebassets\\img\\sd\\c1.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\sd\\c2.jpg",
+      "PackagePath": "staticwebassets\\img\\sd\\c2.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\sd\\c3.jpg",
+      "PackagePath": "staticwebassets\\img\\sd\\c3.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\sd\\c4.jpg",
+      "PackagePath": "staticwebassets\\img\\sd\\c4.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\img\\sd\\c5.jpg",
+      "PackagePath": "staticwebassets\\img\\sd\\c5.jpg"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\js\\countdown.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\email-validation.js",
+      "PackagePath": "staticwebassets\\js\\email-validation.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\ion.rangeSlider.js",
+      "PackagePath": "staticwebassets\\js\\ion.rangeSlider.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\js\\parallax.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\js\\vendor\\popper.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\popper.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\scss\\main.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\scss\\theme\\_banner.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_banner.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\scss\\theme\\_blog.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_blog.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\scss\\theme\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_common.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\scss\\theme\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_contact.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\scss\\theme\\_elements.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_elements.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\scss\\theme\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\scss\\theme\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_header.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\scss\\theme\\_home.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_home.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\scss\\theme\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\scss\\theme\\_predefine.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_predefine.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\scss\\theme\\_product.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_product.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\scss\\theme\\_reset.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_reset.scss"
+    },
+    {
+      "Id": "D:\\Project\\PerfumeStoreManager\\ShoeStore\\wwwroot\\scss\\theme\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\theme\\_variables.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Group08_Project_PerfumeStoreManager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Group08_Project_PerfumeStoreManager.props",
+      "PackagePath": "build\\Group08_Project_PerfumeStoreManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Group08_Project_PerfumeStoreManager.props",
+      "PackagePath": "buildMultiTargeting\\Group08_Project_PerfumeStoreManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Group08_Project_PerfumeStoreManager.props",
+      "PackagePath": "buildTransitive\\Group08_Project_PerfumeStoreManager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

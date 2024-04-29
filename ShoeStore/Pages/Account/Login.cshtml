@@ -1,0 +1,171 @@
+﻿@page "{handler?}"
+@model WebRazor.Pages.Account.LoginModel
+@{
+}
+<!DOCTYPE html>
+<html lang="zxx" class="no-js">
+
+<head>
+    <!-- Mobile Specific Meta -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Favicon-->
+    <link rel="shortcut icon" href="img/fav.png">
+    <!-- Author Meta -->
+    <meta name="author" content="CodePixar">
+    <!-- Meta Description -->
+    <meta name="description" content="">
+    <!-- Meta Keyword -->
+    <meta name="keywords" content="">
+    <!-- meta character set -->
+    <meta charset="UTF-8">
+    <!-- Site Title -->
+    <title>Karma Shop</title>
+
+    <!--
+        CSS
+        ============================================= -->
+    <link rel="stylesheet" href="css/linearicons.css">
+    <link rel="stylesheet" href="css/owl.carousel.css">
+    <link rel="stylesheet" href="css/themify-icons.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/nice-select.css">
+    <link rel="stylesheet" href="css/nouislider.min.css">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+
+<section class="login_box_area section_gap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="login_box_img">
+                        <img class="img-fluid" src="img/rose.jpeg" alt="">
+                    <div class="hover">
+                        <h4>New to our website?</h4>
+                        <p>There are advances being made in science and technology everyday, and a good example of this is the</p>
+                            <a class="primary-btn" href="~/Account/SignUp">Create an Account</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="login_form_inner">
+                    <h3>Log in to enter</h3>
+                        <form action="" name="form1" method="post">
+                            <span class="msg-error">@ViewData["msg"]</span><br />
+
+                            <label>Email<span style="color: red;">*</span></label><br />
+                            <input type="text" id="email" asp-for="Account.Email" required /><br />
+                            <span class="msg-error" asp-validation-for="Account.Email"></span><br />
+                            <h2 id="result"></h2>
+                            <label>Password<span style="color: red;">*</span></label><br />
+                            <input type="password" asp-for="Account.Password" required /><br />
+                            <span class="msg-error" asp-validation-for="Account.Password"></span><br />
+                            <button type="submit" onclick="validateEmail(document.form1.email)">Login</button><br />
+                            <div><a href="~/Account/GetMailForgot">Forgot password?</a></div>
+
+                        </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+</body>
+</html>
+
+    <script>
+    const validateEmail = (email) => {
+        return email.match(
+            /^(([^<>()[\]\\.,;:\s@@\"]+(\.[^<>()[\]\\.,;:\s@@\"]+)*)|(\".+\"))@@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/
+        );
+    };
+
+    const validate = () => {
+        const $result = $('#result');
+        const email = $('#email').val();
+        $result.text('');
+
+        if (validateEmail(email)) {
+            $result.text(email + ' is valid');
+            $result.css('color', 'green');
+        } else {
+            $result.text(email + ' is not valid');
+            $result.css('color', 'red');
+        }
+        return false;
+    }
+
+    $('#email').on('input', validate);
+    </script>
+<style>
+    form {
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #f5f5f5;
+    }
+
+    label {
+        font-weight: bold;
+        display: block;
+        margin-bottom: 5px;
+        text-align:left;
+    }
+
+    input {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+    }
+
+    button {
+        background-color: black;
+        color: #fff;
+        padding: 10px 30px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+        button:hover {
+            background-color: black;
+        }
+
+    .msg-error {
+        color: red;
+        margin-bottom: 10px;
+        display: block;
+    }
+
+    a {
+        text-decoration: none;
+        color: #007bff;
+    }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    /* Add this CSS to your existing stylesheet or in a style block in the head of your HTML document */
+
+    div a {
+        text-decoration: none;
+        color: orange;
+        font-size: 14px; /* Adjust the font size as needed */
+    }
+
+        div a:hover {
+            text-decoration: underline;
+            color: orange; /* Adjust the hover color as needed */
+        }
+
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+

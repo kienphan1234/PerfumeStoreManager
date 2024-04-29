@@ -1,0 +1,109 @@
+﻿@page
+@model WebRazor.Pages.Account.SignUpModel
+@{
+	ViewData["PageTitle"] = "Sign Up";
+}
+<style>
+    #form {
+        width: 900px;
+        margin: auto;
+        padding: 20px;
+        background-color: #f4f4f4;
+        border: 2px solid #ddd; /* Increased border width */
+        border-radius: 5px;
+        margin-top: 50px;
+    }
+
+    #form-title {
+        text-align: left;
+        margin-bottom: 20px;
+    }
+
+        #form-title span {
+            margin: 0 10px;
+        }
+
+    #form-content {
+        text-align: left;
+    }
+
+    form {
+        display: inline-block;
+        text-align: left;
+    }
+
+    label {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    input {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+    }
+
+    .msg-error {
+        color: red;
+        display: block;
+        margin-bottom: 10px;
+    }
+
+    input[type="submit"] {
+        width: 700px;
+        padding: 10px;
+        color: #fff;
+        background-color: black;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-bottom: 30px;
+    }
+</style>
+
+
+<div id="form" style="margin-top:200px">
+    <div id="form-title">
+       <h1>Create Account</h1>
+    </div>
+    <div id="form-content">
+        <span class="msg-error">@ViewData["msg"]</span><br />
+
+        <form method="post">
+            <input asp-for="Customer.CustomerId" value="1" type="hidden" /><br />
+
+            <label>Company name<span style="color: red;">*</span></label>
+            <input asp-for="Customer.CompanyName" type="text" />
+            <span class="msg-error" asp-validation-for="Customer.CompanyName"></span>
+
+            <label>Contact name<span style="color: red;">*</span></label>
+            <input asp-for="Customer.ContactName" type="text" />
+            <span class="msg-error" asp-validation-for="Customer.ContactName"></span>
+
+            <label>Contact title<span style="color: red;">*</span></label>
+            <input asp-for="Customer.ContactTitle" type="text" />
+            <span class="msg-error" asp-validation-for="Customer.ContactTitle"></span>
+
+            <label>Address<span style="color: red;">*</span></label>
+            <input asp-for="Customer.Address" type="text" />
+            <span class="msg-error" asp-validation-for="Customer.Address"></span>
+
+            <label>Email<span style="color: red;">*</span></label>
+            <input asp-for="Account.Email" type="text" />
+            <span class="msg-error" asp-validation-for="Account.Email"></span>
+
+            <label>Password<span style="color: red;">*</span></label>
+            <input asp-for="Account.Password" type="password" />
+            <span class="msg-error" asp-validation-for="Account.Password"></span>
+
+            <label>Re-Password<span style="color: red;">*</span></label>
+            <input asp-for="RePassword" type="password" />
+            <span class="msg-error">@ViewData["msg-repassword"]</span>
+
+            <div></div>
+            <input type="submit" value="SIGN UP" />
+
+        </form>
+    </div>
+</div>

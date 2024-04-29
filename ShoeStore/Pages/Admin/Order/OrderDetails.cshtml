@@ -1,0 +1,32 @@
+﻿@page
+@model WebRazor.Pages.Admin.Order.OrderDetailsModel
+@{
+    ViewData["PageTitle"] = "Order Details";
+}
+<div class="path-admin" style="background-color: black;">ORDER DETAIL</div>
+<div class="content-main">
+    <div id="content-main-dashboard">
+        <div>
+            <div class="profile-order-title">
+                <div class="profile-order-title-left">
+                    <div>OrderID: @Model.order.OrderId</div>
+                    <div>Order date: @Model.order.OrderDate</div>
+                </div>
+                <div class="profile-order-title-right">
+                    <span style="color: green;">Completed</span>
+                </div>
+            </div>
+            @foreach (var o in Model.order.OrderDetails)
+            {
+                <div class="profile-order-content" style="background-color: white;">
+                    <div class="profile-order-content-col1">
+                        <a href="#"><img src="@o.Product.ProductImage" width="100%" /></a>
+                    </div>
+                    <div class="profile-order-content-col2">ProductName: @o.Product.ProductName</div>
+                    <div class="profile-order-content-col3">Quantity: @o.Quantity</div>
+                    <div class="profile-order-content-col4">Price: @o.UnitPrice$</div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

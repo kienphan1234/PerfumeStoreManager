@@ -1,0 +1,225 @@
+﻿@page
+@model WebRazor.Pages.Cart.IndexModel
+@{
+    ViewData["PageTitle"] = "Shopping Card";
+    if (Model.Cart == null || Model.Cart.Count == 0)
+    {
+        ViewData["cartSize"] = 0;
+    }
+    else
+    {
+        ViewData["cartSize"] = Model.Cart.Count;
+    }
+}
+<div id="cart" style="margin-top:200px">
+	<div id="cart-title">
+		<h3>SHOPPING CART</h3>
+	</div>
+	<div id="cart-content">
+		@if (Model.Cart == null || Model.Cart.Count == 0)
+		{
+			<div style="padding: 1%;" class="cart-item msg-error">No product in your cart</div>
+		}
+		else
+		{
+			@foreach (var item in Model.Cart)
+			{
+				<div class="cart-item">
+					<div class="cart-item-infor">
+						<div class="cart-item-img">
+							<img src="@item.Key.ProductImage" />
+						</div>
+						<div class="cart-item-name">
+							<a href="~/Product/Detail/@item.Key.ProductId">@item.Key.ProductName</a>
+						</div>
+						<div class="cart-item-price">
+							@item.Key.UnitPrice $
+						</div>
+						<div class="cart-item-button">
+							<a href="~/Cart/Remove/@item.Key.ProductId">Remove</a>
+						</div>
+					</div>
+					<div class="cart-item-function">
+						<a href="~/Cart/Down/@item.Key.ProductId">-</a>
+						<a href="~/Cart/Up/@item.Key.ProductId">+</a>
+						<input type="text" value="@item.Value" disabled />
+					</div>
+				</div>
+			}
+		}
+	</div>
+	<div id="cart-summary">
+		<div id="cart-summary-content">Total amount: <span style="color:red">@Model.Sum $</span></div>
+	</div>
+	<form method="post">
+		<div id="customer-info">
+			<div id="customer-info-content">
+				<h3>CUSTOMER INFORMATION:</h3>
+				<div id="customer-info-detail">
+					<div id="customer-info-left">
+						<input asp-for="Customer.CompanyName" type="text" placeholder="Company name *" /><br />
+						<input asp-for="ContactName" type="text" placeholder="Contact name *" /><br />
+					</div>
+					<div id="customer-info-right">
+						<input asp-for="Customer.ContactTitle" type="text" placeholder="Contact title *" /><br />
+						<input asp-for="Customer.Address" type="text" placeholder="Address *" /><br />
+					</div>
+					<div id="customer-info-left">
+						<input asp-for="RequireDate" type="date" value="@DateTime.UtcNow" required placeholder="Require Date" /><br />
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div id="cart-order">
+			<input style="width: 22%;
+            background-color: black;
+            color: #fff;
+            line-height: 40px;
+            border-radius: 5px;
+            border: none;
+            cursor: pointer;" type="submit" value="ORDER" />
+		</div>
+
+	</form>
+</div>
+<style>
+	#cart-order {
+		text-align: center;
+		margin-top: 15px; /* Add margin-top for spacing */
+	}
+	.cart-item-function a {
+		display: inline-block;
+		background-color: black; /* Green */
+		color: white;
+		padding: 10px 18px;
+		text-align: center;
+		text-decoration: none;
+		font-size: 16px;
+		margin-right: 5px;
+		cursor: pointer;
+		border-radius: 5px;
+	}
+
+		.cart-item-function a:hover {
+			background-color: black; /* Darker green on hover */
+		}
+
+	.cart-item-function input {
+		width: 30px;
+		text-align: center;
+		font-size: 16px;
+	}
+
+	#cart {
+		max-width: 1200px;
+		margin: 0 auto;
+	}
+
+	#cart-title {
+		background-color: white;
+		color: black;
+		padding: 10px;
+		text-align: center;
+	}
+
+	#cart-content {
+		margin-top: 20px;
+	}
+
+	.cart-item {
+		border: 1px solid #ddd;
+		padding: 15px;
+		margin-bottom: 15px;
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.cart-item-img img {
+		max-width: 80px;
+		height: auto;
+	}
+
+	.cart-item-name {
+		font-size: 18px;
+	}
+
+	.cart-item-price {
+		color: #333;
+	}
+
+	.cart-item-button a {
+		color: red;
+		text-decoration: none;
+	}
+
+	.cart-item-function {
+		display: flex;
+		align-items: center;
+	}
+
+	#cart-summary {
+		margin-top: 20px;
+	}
+
+	#cart-summary-content {
+		text-align: right;
+		font-size: 18px;
+	}
+
+	#customer-info {
+		margin-top: 20px;
+	}
+
+	#customer-info-content {
+		background-color: #f8f8f8;
+		padding: 20px;
+		border-radius: 5px;
+		margin-bottom: 20px;
+	}
+
+	#customer-info h3 {
+		color: #333;
+	}
+
+	#customer-info-detail {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	#customer-info-left,
+	#customer-info-right {
+		flex: 1;
+	}
+
+	input[type="text"],
+	input[type="date"] {
+		width: 100%;
+		padding: 10px;
+		margin-bottom: 10px;
+	}
+
+	#customer-info-payment div {
+		margin-bottom: 10px;
+	}
+
+	.msg-error {
+		color: red;
+	}
+
+	#cart-order input[type="submit"] {
+		width: 100%;
+		background-color: brown;
+		color: #fff;
+		padding: 10px;
+		border-radius: 5px;
+		border: none;
+		cursor: pointer;
+		font-size: 16px;
+	}
+
+		#cart-order input[type="submit"]:hover {
+			background-color: #8b4513; /* Darker brown on hover */
+		}
+
+</style>

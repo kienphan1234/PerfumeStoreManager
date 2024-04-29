@@ -1,0 +1,199 @@
+﻿@page
+@model WebRazor.Pages.Account.ProfileModel
+@{
+}
+<div id="content-left" style="margin-top:150px">
+    <h3 style="font-weight: normal;">Welcome, @Model.Auth.Email</h3>
+    <h3>Account Management</h3>
+    <ul>
+        <a href="~/Account/Profile">
+        <li>Personal information</li></a>
+    </ul>
+    <h3>My order</h3>
+    <ul>
+        <a href="~/Order">
+        <li>All orders</li></a>
+        <a href="/">
+        <li>Canceled order</li></a>
+    </ul>
+</div>
+<div id="content-right" style="margin-top:150px">
+    <form method="post">
+        <div class="path">Personal information</div>
+        <div class="content-main">
+            
+            <div id="profile-content">
+
+                <div class="profile-content-col">
+                    <div>
+                        Company name: <br />
+                        <input type="text" asp-for="Auth.Customer.CompanyName" /><br />
+                        <span class="msg-error" asp-validation-for="Auth.Customer.CompanyName"></span><br />
+                    </div>
+                    <div>
+                        Contact name: <br />
+                        <input type="text" asp-for="Auth.Customer.ContactName" /><br />
+                        <span class="msg-error" asp-validation-for="Auth.Customer.ContactName"></span><br />
+                    </div> 
+                </div>
+                <div class="profile-content-col">
+                    <div>
+                        Company title: <br />
+                        <input type="text" asp-for="Auth.Customer.ContactTitle" /><br />
+                        <span class="msg-error" asp-validation-for="Auth.Customer.ContactTitle"></span><br />
+
+                    </div>
+                    <div>
+                        Address: <br />
+                        <input type="text" asp-for="Auth.Customer.Address" /><br />
+                        <span class="msg-error" asp-validation-for="Auth.Customer.Address"></span><br />
+                    </div>
+                </div>
+                <div class="profile-content-col">
+
+                    <div>
+                        Email: <br />
+                        <input type="text" asp-for="Auth.Email" /><br />
+                        <span class="msg-error" asp-validation-for="Auth.Email"></span><br />
+                    </div>
+                </div>
+                <div>
+                    <input type="submit" value="Edit info" /><br />
+                    <button class="site-btn"><a style="color:white;" asp-page="/Account/ChangePassword">CHANGE PASSWORD</a></button>
+                    <span class="msg-error">@ViewData["fail"]</span><br />
+                    <span class="msg-success">@ViewData["success"]</span><br />
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+<style>
+    /* Style the button with the link */
+    .site-btn {
+        background-color: black; /* Set your desired background color */
+        color: #fff; /* Set the text color to white */
+        padding: 10px 15px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        text-decoration: none;
+        display: inline-block;
+        transition: background-color 0.3s;
+        width: 100%;
+    }
+
+        .site-btn:hover {
+            background-color: black; /* Set the hover background color */
+        }
+
+        /* Style the link inside the button */
+        .site-btn a {
+            color: inherit; /* Inherit the text color from the button */
+            text-decoration: none;
+            display: block; /* Make the link fill the entire button */
+        }
+
+        /* Adjust the link padding if needed */
+        .site-btn a {
+            padding: 10px 15px;
+        }
+
+    body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh; /* Set minimum height to 100% of the viewport height */
+    }
+
+    #content-left,
+    #content-right {
+        overflow: auto; /* Add overflow to handle content scrolling */
+    }
+
+    #footer {
+        margin-top: auto; /* Push the footer to the bottom */
+        background-color: #333;
+        color: #fff;
+        text-align: center;
+        padding: 10px;
+    }
+
+        /* Optional: Add styling for links in the footer */
+        #footer a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+            #footer a:hover {
+                text-decoration: underline;
+            }
+
+    #content-left {
+        width: 30%;
+        float: left;
+        padding-right: 20px;
+    }
+
+    #content-right {
+        width: 65%;
+        float: left;
+    }
+
+    h3 {
+        font-weight: bold;
+    }
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+        ul a {
+            text-decoration: none;
+            color: #333;
+        }
+
+            ul a:hover {
+                color: #007bff;
+            }
+
+    #content-left ul li,
+    #content-right .path {
+        margin-bottom: 10px;
+    }
+
+    #content-right form {
+        max-width: 500px;
+        margin: 20px auto;
+    }
+
+    .content-main {
+        padding: 20px;
+        background-color: #f8f8f8;
+        border-radius: 5px;
+    }
+
+    .profile-content-col {
+        margin-bottom: 15px;
+    }
+
+        .profile-content-col div {
+            margin-bottom: 10px;
+        }
+
+    input[type="text"],
+    input[type="submit"] {
+        width: 100%;
+        padding: 8px;
+        box-sizing: border-box;
+        margin-bottom: 30px;
+    }
+
+    .msg-error {
+        color: red;
+    }
+
+    .msg-success {
+        color: green;
+    }
+
+</style>

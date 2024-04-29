@@ -1,0 +1,108 @@
+﻿@page
+@model WebRazor.Pages.Admin.Product.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+@{
+    var pagingmodel = new WebRazor.Helpers.PagingModel()
+            {
+                currentPage = Model.currentPage,
+                countPages = Model.countPages,
+                generateUrl = (int? currentPage) => Url.Page("/Admin/Product/Index", new { currentPage = currentPage, search = Model.search, categoryChoose = Model.categoryChoose })
+            };
+}
+<div class="path-admin" style="background-color: black;">PRODUCTS LIST</div>
+<div class="content-main">
+    <div id="content-main-dashboard">
+        <div id="product-title-header" style="padding-bottom: 50px;">
+            <div id="product-title-1" style="width: 25%;">
+                <b>Filter by Catetory:</b>
+                <form method="get" asp-page="./Index">
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                        <select asp-for="categoryChoose" style="padding: 8px; border: 1px solid #ccc; border-radius: 4px; height: 50px">
+                            <option value="">--- Select ---</option>
+                            @foreach (var cate in Model.Categories)
+                            {
+                                <option value="@cate.CategoryId">@cate.CategoryName</option>
+                            }
+                        </select>
+
+                        <button type="submit" style="padding: 10px; background-color: black; color: white; border: none; border-radius: 4px; cursor: pointer;">Filter</button>
+                    </div>
+
+                </form>
+            </div>
+            <div id="product-title-2" style="width: 55%;">
+                <form method="get" asp-page="./Index">
+                    <div style="display: flex; gap: 10px; align-items: center;">
+                        <input asp-for="search" type="text" placeholder="Enter product name to search" style="padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+
+                        <button type="submit" style="padding: 10px; background-color: black; color: white; border: none; border-radius: 4px; cursor: pointer;">Search</button>
+                    </div>
+
+                </form>
+            </div>
+            <div id="product-title-3" style="width: 20%;">
+                <button type="button" onclick="location.href='Product/Create'" 
+                style="padding: 10px; background-color: black; color: white; border: none; border-radius:
+                 4px; cursor: pointer; display: block; margin-bottom: 10px;">Create a new Product</button>
+                
+            </div>
+        </div>
+        <div id="order-table-admin">
+            <table id="orders">
+                <tr>
+                    <th>ProductID</th>
+                    <th>ProductName</th>
+                    <th>UnitPrice</th>
+                    <th>Unit</th>
+                    <th>UnitsInStock</th>
+                    <th>Category</th>
+                    <th>Discontinued</th>
+                    <th></th>
+                </tr>
+                <tbody id="tableBody">
+                @foreach (var item in Model.Product)
+                {
+                    <tr>
+                        <td>
+                                @Html.DisplayFor(modelItem => item.ProductId)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.UnitPrice)
+                        </td>
+                        <td>@Html.DisplayFor(modelItem => item.QuantityPerUnit)</td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.UnitsInStock)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Category.CategoryName)
+                        </td>
+                        <td>
+                            @if(@item.Discontinued == false){
+                                <p>False</p>
+                            }else{
+                                <p>True</p>
+                            }
+                        </td>
+
+                        <td>
+                            <a asp-page="./Edit" asp-route-id="@item.ProductId">Edit</a> |
+                            <a asp-page="./Delete" asp-route-id="@item.ProductId">Delete</a>
+                        </td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+        </div>
+        <div id="paging">
+            <div class="pagination">
+                <partial name="_Paging" model="@pagingmodel" />
+            </div>
+        </div>
+    </div>
+</div>

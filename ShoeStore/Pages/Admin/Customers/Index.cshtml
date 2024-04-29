@@ -1,0 +1,94 @@
+﻿@page
+@model WebRazor.Pages.Admin.Customers.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+@{
+    ViewData["PageTitle"] = "Order List";
+    var pagingModel = new WebRazor.Helpers.PagingModel()
+            {
+                currentPage = Model.currentPage,
+                countPages = Model.totalPages,
+                generateUrl = (int? currentPage) => Url.Page("/Admin/Customers/Index", new { currentPage = currentPage, month = Model.month })
+            };
+}
+
+
+<div class="path-admin" style="background-color: black;">ORDERS LIST</div>
+<div class="content-main">
+	<div id="content-main-dashboard">
+		<div id="order-title">
+			
+			<form method="get" style="display: flex;">
+				
+				<div id="product-title-2" style="width: 60%; padding-top: 0%;">
+					<input style="margin-left: 10%; padding: 8px; border: 1px solid #ccc; border-radius: 4px;" asp-for="search" placeholder="Enter ContactName to search" />
+				</div>
+
+				<button type="submit" style="margin-top: 1px; padding: 10px; background-color: black; color: white; border: none; border-radius: 4px; cursor: pointer;">Filter</button>
+
+
+			</form>
+		</div>
+		@if (Model.Customers == null || Model.Customers.Count == 0)
+		{
+			<div style="margin: 1% 2%;" class="msg-error">No customers</div>
+		}
+		else
+		{
+			if (Model.month > 0)
+			{
+				<div style="margin: 1% 2%;" class="msg-error">Total customer(s) register: @Model.totalCustomer</div>
+			}
+			<div id="order-table">
+				<table id="orders">
+					<tr>
+						<th>@Html.DisplayNameFor(model => model.Customers[0].CompanyName)</th>
+						<th> @Html.DisplayNameFor(model => model.Customers[0].ContactName)</th>
+						<th>@Html.DisplayNameFor(model => model.Customers[0].ContactTitle)</th>
+						<th> @Html.DisplayNameFor(model => model.Customers[0].Address) </th>
+						
+						<th>@Html.DisplayNameFor(model => model.Customers[0].Active) </th>
+					</tr>
+
+					@foreach (var item in Model.Customers)
+					{
+						<tr>
+							<td>
+								@Html.DisplayFor(modelItem => item.CompanyName)
+							</td>
+							<td>
+								@Html.DisplayFor(modelItem => item.ContactName)
+							</td>
+							<td>
+								@Html.DisplayFor(modelItem => item.ContactTitle)
+							</td>
+							<td>
+								@Html.DisplayFor(modelItem => item.Address)
+							</td>
+							
+							<td>
+								@if (item.Active == true)
+								{
+									<a style="text-decoration: none;" href="~/Admin/Customers/Update?id=@item.CustomerId">De-active</a>
+								}
+								else
+								{
+									<a style="text-decoration: none;" href="~/Admin/Customers/Update?id=@item.CustomerId">Active</a>
+								}
+							</td>
+						</tr>
+					}
+
+				</table>
+
+			</div>
+		}
+		<div id="paging">
+			<div id="paging">
+				<partial name="_Paging" model="@pagingModel" />
+			</div>
+		</div>
+	</div>
+</div>

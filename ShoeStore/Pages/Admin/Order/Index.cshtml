@@ -1,0 +1,94 @@
+﻿@page "{currentPage:int?}"
+@model WebRazor.Pages.Admin.Order.IndexModel
+@{
+	ViewData["PageTitle"] = "Order List";
+	var pagingModel = new WebRazor.Helpers.PagingModel()
+			{
+				currentPage = Model.currentPage,
+				countPages = Model.totalPages,
+				generateUrl = (int? currentPage) => (Model.dateFrom == default(DateTime) || Model.dateTo == default(DateTime)) ?
+					Url.Page("/Admin/Order/Index", new { currentPage = currentPage })
+						: Url.Page("/Admin/Order/Index", new { currentPage = currentPage, dateFrom = Model.dateFrom, dateTo = Model.dateTo })
+
+			};
+	var dateFrom = Model.dateFrom;
+	var dateTo = Model.dateTo;
+
+	ViewData["msg"] = TempData["msg"];
+}
+
+
+<div class="path-admin" style="background-color: black;">ORDERS LIST</div>
+<div class="content-main">
+	<div id="content-main-dashboard">
+		<div id="order-title" style="display: flex;">
+			<div>
+				<b>Filter by Order date:</b>
+				<form method="get">
+					<div style="display: flex; align-items: center; gap: 10px;">
+						<label for="dateFrom">From:</label>
+						<input asp-for="dateFrom" type="date" id="dateFrom" onchange="dateChange()" style="padding: 8px; border: 1px solid #ccc; border-radius: 4px;" />
+
+						<label for="dateTo">To:</label>
+						<input asp-for="dateTo" type="date" id="dateTo" onchange="dateChange()" style="padding: 8px; border: 1px solid #ccc; border-radius: 4px;" />
+
+						<div class="msg-error" style="color: red;">@ViewData["msg"]</div>
+
+						<button type="submit" style="padding: 10px; background-color: black; color: white; border: none; border-radius: 4px; cursor: pointer;">Filter</button>
+					</div>
+
+				</form>
+			</div>
+			<div style="margin-left: 50%; padding-top: 4%;">
+				
+			</div>
+		</div>
+
+		<div id="order-table">
+			@if (Model.orderList == null || Model.orderList.Count < 1)
+			{
+				<div style="margin: 1% 2%;" class="msg-error">Not found order(s)!</div>
+			}
+			else
+			{
+				<table id="orders">
+					<tr>
+						<th>OrderID</th>
+						<th>OrderDate</th>
+						<th>RequiredDate</th>
+						<th>ShippedDate</th>
+						<th>Customer</th>
+						<th>Status</th>
+					</tr>
+					@foreach (var o in Model.orderList)
+					{
+						<tr>
+							<td><a href="~/Admin/Order/OrderDetails?id=@o.OrderId">@o.OrderId</a></td>
+							<td>@o.OrderDate.Value.ToString("dd-MM-yyyy")</td>
+							<td>@(@o.RequiredDate == null ? "" : @o.RequiredDate.Value.ToString("dd-MM-yyyy"))</td>
+							<td>@(@o.ShippedDate == null ? "" : @o.ShippedDate.Value.ToString("dd-MM-yyyy"))</td>
+							<td>@o.Customer.ContactName</td>
+							<td style="color: green;">Completed</td>
+						</tr>
+					}
+				</table>
+			}
+		</div>
+		<div id="paging">
+			<div id="paging">
+				<partial name="_Paging" model="@pagingModel" />
+			</div>
+		</div>
+	</div>
+</div>
+
+<script>
+	function dateChange() {
+		var dFrom = document.getElementById("dateFrom").value;
+		var dTo = document.getElementById("dateTo").value;
+		var link = document.getElementById("exportLink");
+		link.href = "Export?dataTable=order&dateFrom=" + dFrom + "&dateTo=" + dTo;
+		console.log(link.href);
+	}
+</script>
+

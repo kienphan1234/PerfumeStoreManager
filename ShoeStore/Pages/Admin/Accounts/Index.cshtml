@@ -1,0 +1,77 @@
+﻿@page
+@model ShoeStore.Pages.Admin.Account.IndexModel
+@{
+    ViewData["Title"] = "Account List";
+}
+
+<div class="path-admin" style="background-color: black;">ACCOUNT LIST</div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Account Id</th>
+            <th>Email</th>
+            <th>Role</th>
+            <!-- Add other columns as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var account in Model.Accounts)
+        {
+            <tr>
+                <td>@account.AccountId</td>
+                <td>@account.Email</td>
+                <td>
+                    @if (account.Role == 1)
+                    {
+                        <span class="role-admin">Admin</span>
+                    }
+                    else if (account.Role == 2)
+                    {
+                        <span class="role-user">User</span>
+                    }
+                    else
+                    {
+                        <span>Unknown Role</span>
+                    }
+                </td>
+                <!-- Add other columns as needed -->
+            </tr>
+        }
+    </tbody>
+</table>
+
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    th, td {
+        padding: 10px;
+        text-align: left;
+        border: 1px solid #ddd;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    tr:hover {
+        background-color: #e5e5e5;
+    }
+
+    .role-admin {
+        color: #ff6347; /* Tomato color for Admin role */
+        font-weight: bold;
+    }
+
+    .role-user {
+        color: #32cd32; /* LimeGreen color for User role */
+    }
+</style>
+

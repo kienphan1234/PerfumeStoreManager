@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="viewport" content="width=device-width" />
+	<title>@ViewBag.Title</title>
+	<link href="~/css/style.css" rel="stylesheet" />
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+</head>
+<body>
+	<div id="container" style="margin-top: 20px">
+		<div id="header">
+			<div id="logo-admin" style="color: white; background-color: black">
+				Welcome Admin @Context.Session.GetString("UserEmail")
+			</div>
+			<div id="banner-admin">
+				<ul>
+					<li><a href="~/Account/Logout">SignOut</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="content">
+			<div>
+				<ul>
+					<a href="~/Admin/Dashboard">
+					<li>Dashboard</li></a>
+					<a href="~/Admin/Order">
+					<li>Orders</li></a>
+					<a href="~/Admin/Product">
+					<li>Products</li></a>
+					<a href="~/Admin/Customers">
+					<li>Customers</li></a>
+					<a href="~/Admin/Accounts">
+					<li>Account</li></a>
+				</ul>
+			</div>
+			<div id="content-right">
+				@RenderBody()
+			</div>
+			
+		</div>
+	
+	</div>
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="~/microsoft/signalr/dist/browser/signalr.js"></script>
+	<script src="~/js/site.js"></script>
+</body>
+</html>
+<style>
+	
+	
+
+	html, body {
+		height: 100%;
+		width: 100%;
+
+	}
+
+	#container {
+		height: 100%;
+		width: 100%;	
+		background-image: url('img/nen.jpg');
+		background-size: cover;
+		background-position: center;
+	}
+
+
+
+	#content ul {
+		list-style-type: none;
+		padding: 0;
+		margin: 0;
+	}
+
+	#content a {
+		text-decoration: none;
+		display: block;
+		padding: 10px;
+		color: #333; /* Change link color */
+		transition: background-color 0.3s ease;
+	}
+
+		#content a:hover {
+			background-color: lightblue; /* Change hover background color */
+		}
+
+	
+	#banner-admin {
+		
+		padding: 10px;
+		text-align: right;
+	}
+
+		#banner-admin ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+		}
+
+		#banner-admin li {
+			display: inline-block;
+			margin-right: 10px;
+		}
+
+		#banner-admin a {
+			text-decoration: none;
+			color: #fff;
+			padding: 8px 12px;
+			border-radius: 5px;
+			background-color: #555;
+			transition: background-color 0.3s ease;
+		}
+
+			#banner-admin a:hover {
+				background-color: #777;
+			}
+
+
+</style>
+
+@RenderSection("Scripts", required: false)
